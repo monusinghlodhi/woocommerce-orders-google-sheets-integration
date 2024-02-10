@@ -35,7 +35,7 @@ On that page, click on Edit > Current Projects Trigger. In the pop-up, give the 
 
 'start_syncv2' is the function that invokes the script that syncs data between the google sheets and your site. Setting a trigger will trigger this process periodically based on the preferences you set.
 
-If you face any issues or have any suggestions to improve this woocommerce orders google sheets integration tool, create a ticket at https://github.com/mithunmanohar/woocommerce-orders-google-sheets-integration/issues
+If you face any issues or have any suggestions to improve this woocommerce orders google sheets integration tool, create a ticket at https://github.com/monusinghlodhi/woocommerce-orders-google-sheets-integration/issues
 
 
 If you find this tool useful, you can consider buying me a coffee !
